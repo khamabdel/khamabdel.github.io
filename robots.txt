@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://khamabdel.github.io/al-folio/sitemap.xml
+Sitemap: https://khamabdel.github.io/sitemap.xml
