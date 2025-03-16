@@ -1,5 +1,20 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am **R. Abdelmouheymen Khamadja**, a theoretical physicist specializing in Quantum Computing, currently pursuing my Master's degree at the University of Constantine 1 in Algeria. My research explores the intersection of theoretical quantum mechanics and practical computational algorithms, particularly in the realm of quantum informatics and Variational Quantum Algorithms (VQAs).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My fascination with the elegant yet counterintuitive principles of quantum mechanics has driven my academic and research career. Initially captivated by the theoretical foundations, my interests quickly evolved toward the application of quantum phenomena to solve complex, real-world problems.
+
+During my studies, I have immersed myself deeply in advanced theoretical concepts, including Quantum Field Theory (QED & QCD), General Relativity, Quantum Information, Standard Model Physics, and Astroparticles. My Bachelor's studies provided a solid foundation in classical and quantum physics, placing second in my cohort with honors.
+
+## Research Interests
+
+Currently, I am a Research Intern at [**Constantine Quantum Technologies (CQTech)**](https://www.cqtech.org)—Algeria’s first collaborative quantum computing research group. Here, my research primarily revolves around developing quantum algorithms for quantum chemistry. Read More about out group [here](https://www.cqtech.org).
+
+My previous experiences include working on Quantum Annealing algorithms for warehouse optimization, classical and quantum methods in electronic structure problems in quantum chemistry, and the study of entanglement properties in q-deformed coherent states.
+
+
+## Community Involvement
+
+I am a co-founder and board member of [**QAlgeria**](https://www.qworld.net/qalgeria), the Algerian chapter of QWorld, dedicated to fostering quantum computing education and outreach. Through workshops and mentoring roles, I actively share knowledge and contribute to building a local quantum research community.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mouhaimen-kh) or explore my research on [GitHub](https://github.com/mouha-kh) and [Google Scholar](https://scholar.google.com/citations?user=lq5JJuYAAAAJ&hl).
